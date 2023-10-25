@@ -1,13 +1,10 @@
 {
-    "nome": "Venilton FalvoJr",
-    "titulo": "Education Tech Lead na DIO",
-    "localidade": {
-      "cidade": "Araraquara",
-      "estado": "São Paulo",
-      "pais": "Brasil"
-    },
-    "telefone": "(16) 99721-8281",
-    "email": "venilton@dio.me",
+    "name": "Lucas Marques",
+    "photo": "https://avatars.githubusercontent.com/u/146784142?v=4",
+    "job": "Designer/Drafter Jr na Relco",
+    "location": "São Caetano do Sul/SP - BR",
+    "phone": "(11) 94826-4464",
+    "email": "marqueslucas504@gmaio.com",
     "skills": {
       "hardSkills": [
         {
