@@ -50,12 +50,12 @@
       {
         "name": "Curso ministrado na DIO para a criação de uma Pokedex",
         "url": "https://github.com/AkiraMarques/Pokedex-Projeto-JS-DIO",
-        "git": true
+        "github": true
       },
       {
         "name": "Curso ministrado na DIO para a criação de uma página de um portfólio",
         "url": "https://github.com/AkiraMarques/portfolio",
-        "git": true
+        "github": true
       }
     ],
     "experiencias": [
