@@ -8,25 +8,37 @@
     "skills": {
       "hardSkills": [
         {
-          "nome": "Android",
-          "logo": "TODO"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/AkiraMarques/portfolio/main/data/imgs/CSS.png"
         },
         {
-          "nome": "Java",
-          "logo": "TODO"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/AkiraMarques/portfolio/main/data/imgs/Git.png"
         },
         {
-          "nome": "Kotlin",
-          "logo": "TODO"
+          "name": "GitHub",
+          "logo": "https://raw.githubusercontent.com/AkiraMarques/portfolio/main/data/imgs/GitHub.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/AkiraMarques/portfolio/main/data/imgs/HTML.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/AkiraMarques/portfolio/main/data/imgs/js.png"
+        },
+        {
+          "name": "nodejs",
+          "logo": "https://raw.githubusercontent.com/AkiraMarques/portfolio/main/data/imgs/NodeJS.png"
         }
       ],
       "softSkills": [
-        "Liderança",
+        "Curiosidade",
         "Facilidade de Comunicação",
-        "Organização",
-        "Trabalho em Equipe",
         "Flexibilidade",
-        "Curiosidade"
+        "Liderança",
+        "Organização",
+        "Trabalho em Equipe"
       ]
     },
     "idiomas": [
