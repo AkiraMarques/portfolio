@@ -61,16 +61,16 @@
     "professionalExperience": [
       {
         "name": "Designer/Drafter Jr",
-        "description": "In charge of designing, 3D modeling and developing equipment manufacturing projects for drying and evaporation plants.",
+        "description": "Encarregado de projetar, modelar 3D e desenvolver projetos de fabricação de equipamentos para plantas de secagem e evaporação.",
         "institution": "Relco South America",
         "period": {
           "start": "Out/2022",
-          "end": "Current"
+          "end": "Atualmente"
         }
       },
       {
         "name": "Project Engineer",
-        "description": "In charge of calculating, designing and documenting the development of plate heat exchanger equipment.",
+        "description": "Responsável por calcular, projetar e documentar o desenvolvimento de equipamentos trocadores de calor a placas.",
         "institution": "ICP Latin America",
         "period": {
           "start": "Fev/2020",
