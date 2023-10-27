@@ -58,14 +58,23 @@
         "github": true
       }
     ],
-    "experiencias": [
+    "professionalExperience": [
       {
-        "nome": "Education Tech Lead ",
-        "descricao": "",
-        "instituicao": "Digital Innovation One (DIO)",
-        "periodo": {
-          "inicio": "03/2021",
-          "fim": "Atualmente"
+        "name": "Designer/Drafter Jr",
+        "description": "In charge of designing, 3D modeling and developing equipment manufacturing projects for drying and evaporation plants.",
+        "institution": "Relco South America",
+        "period": {
+          "start": "Out/2022",
+          "end": "Current"
+        }
+      },
+      {
+        "name": "Project Engineer",
+        "description": "In charge of calculating, designing and documenting the development of plate heat exchanger equipment.",
+        "institution": "ICP Latin America",
+        "period": {
+          "start": "Fev/2020",
+          "end": "Out/2022"
         }
       }
     ]
