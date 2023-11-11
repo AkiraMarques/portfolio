@@ -56,6 +56,11 @@
         "name": "Curso ministrado na DIO para a criação de uma página de um portfólio",
         "url": "https://github.com/AkiraMarques/portfolio",
         "github": true
+      },
+      {
+        "name": "Curso ministrado na DIO para a criação de uma calculadora com o React",
+        "url": "https://github.com/AkiraMarques/Criando-uma-calculadora-com-React",
+        "github": true
       }
     ],
     "professionalExperience": [
